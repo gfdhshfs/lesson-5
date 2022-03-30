@@ -1,0 +1,17 @@
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\bin\Debug\Учет абонементов.exe.config
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\bin\Debug\Учет абонементов.exe
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\bin\Debug\Учет абонементов.pdb
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Учет абонементов.csproj.AssemblyReference.cache
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\MainWindow.g.cs
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Pages\Loginpages.g.cs
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\App.g.cs
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Учет абонементов_MarkupCompile.cache
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Учет абонементов_MarkupCompile.lref
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\MainWindow.baml
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Pages\Loginpages.baml
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Учет абонементов.g.resources
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Учет_абонементов.Properties.Resources.resources
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Учет абонементов.csproj.GenerateResource.cache
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Учет абонементов.csproj.CoreCompileInputs.cache
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Учет абонементов.exe
+C:\Users\ilyaz\source\repos\Учет абонементов\Учет абонементов\obj\Debug\Учет абонементов.pdb
