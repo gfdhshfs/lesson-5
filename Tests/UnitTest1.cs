@@ -1,7 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using static Library.LoginServise;
-using Library;
+﻿using Library;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Tests
 {

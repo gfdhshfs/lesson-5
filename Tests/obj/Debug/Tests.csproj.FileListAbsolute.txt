@@ -1,0 +1,2 @@
+C:\Users\ilyaz\source\repos\Учет абонементов\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\ilyaz\source\repos\Учет абонементов\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
